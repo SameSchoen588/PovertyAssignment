@@ -3,7 +3,7 @@
 This was an assignment during my last semester of Java at NWTC Green Bay, WI. - The Poverty Assignment
 
 
-Here we have a program that is able to pull a file from a designated directory.
+Here we have a program that is able to pull a file from a designated directory (poverty.txt).
 
 Knowing the format of the file, I can then pull the requested data from said file.
 
